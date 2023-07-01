@@ -145,4 +145,4 @@ Check repo there is that file.
 
 # Thank You :lollipop: :lollipop: :lollipop:
 
-Contact with me to download custom trained weights (I did support the repo with weights link bcz the weights are trained with custom dataset with has my private images): **uacoding01@gmail.com**
+Contact with me to download custom trained weights (I did support the repo with weights link bcz the weights are trained with custom dataset which has my private images): **uacoding01@gmail.com**
