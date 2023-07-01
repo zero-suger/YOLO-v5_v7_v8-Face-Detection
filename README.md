@@ -7,7 +7,7 @@
 
 `cudatoolkit=11.3 -c pytorch` ` labelImg` 
 
-:fa-tags: ***Other requirements may change according to the versions of the tools of YOLOs.***
+:lollipop: ***Other requirements may change according to the versions of the tools of YOLOs.***
 
 
 - If we want to use `comet` vizualization tool for any Yolo versions, **Don't forget, open comet account first and use comet API to train the YOLO model **and we can get good vizualization results. For more check this link :
@@ -18,7 +18,7 @@
 
 Check this link to learn about YOLOv5 : [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
-1.**TRAIN: **  
+1.**TRAIN:**  
 
     python train.py --batch 4 --epochs 50 --data data/mix_data.yaml --weights yolov5n6.pt
 
@@ -46,7 +46,7 @@ Check this link to learn about YOLOv5 : [https://github.com/ultralytics/yolov5](
 
 Check this link to learn about YOLOv7 : [https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
 
-1.**TRAIN: **  
+1.**TRAIN:**  
 
     python train.py --batch 4 --epochs 50 --data data/mix_data.yaml --weights yolov7-w6.pt
 
@@ -72,7 +72,7 @@ Check this link to learn about YOLOv7 : [https://github.com/WongKinYiu/yolov7](h
 
 Check this link to learn about YOLOv8 : [https://github.com/ultralytics](https://github.com/ultralytics)
 
-1.**TRAIN: **  
+1.**TRAIN:**  
 
     python train.py --batch 4 --epochs 50 --data data/mix_data.yaml --weights yolov8m.pt
 
@@ -95,7 +95,7 @@ Check this link to learn about YOLOv8 : [https://github.com/ultralytics](https:/
 ------------
 
 
-:coffee: **SUGER TRICKS : **  :coffee:
+:coffee: **SUGER TRICKS :**  :coffee:
 
 1.  When trying to train YOLOv7, please check `loss.py `  file and check device and change it 
 
@@ -118,7 +118,7 @@ Check this link to learn about YOLOv8 : [https://github.com/ultralytics](https:/
  
 
 ------------
-### **RESULT: **
+### **RESULT:**
 
 
 I used` run_OpenCV.py `file to run live stream face detection with is powered with YOLOv8.
@@ -126,7 +126,7 @@ I used` run_OpenCV.py `file to run live stream face detection with is powered wi
 Check repo there is that file. 
 
 
-:tw-1f4fa:  **LIVE DEMO : ** [https://youtu.be/xZDQq-44Euk](https://youtu.be/xZDQq-44Euk)
+:lollipop:  **LIVE DEMO : ** [https://youtu.be/xZDQq-44Euk](https://youtu.be/xZDQq-44Euk)
 
 
 ------------
