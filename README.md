@@ -1,4 +1,4 @@
-:smile: 
+:smile: :smile: :smile: 
 
 # **FACE DETECTION with YOLOv5, YOLOv7 AND YOLOv8.**
 
@@ -14,7 +14,7 @@
 
 [https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)
 
- ## **YOLOv5 Face Detection** :tw-35-20e3:
+ ## **YOLOv5 Face Detection** :coffee:
 
 Check this link to learn about YOLOv5 : [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
@@ -35,14 +35,14 @@ Check this link to learn about YOLOv5 : [https://github.com/ultralytics/yolov5](
   /ultralytics/yolov5](https://github.com/ultralytics/yolov5) or **request me)**
   
   
- :tw-1f352: ** You can check results.jpg to see results(YOLOv5 folder in repo).** 
+:coffee: ** You can check results.jpg to see results(YOLOv5 folder in repo).** 
  
  
 
 ------------
 
 
-  ## **YOLOv7 Face Detection**  :tw-37-20e3:
+  ## **YOLOv7 Face Detection**  :coffee:
 
 Check this link to learn about YOLOv7 : [https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
 
@@ -63,12 +63,12 @@ Check this link to learn about YOLOv7 : [https://github.com/WongKinYiu/yolov7](h
  /WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) or **request me)**
   
   
- :tw-1f352: ** You can check results.jpg to see results(YOLOv7 folder in repo).** 
+ :coffee: ** You can check results.jpg to see results(YOLOv7 folder in repo).** 
  
  ------------
 
 
-  ## **YOLOv8 Face Detection**  :tw-38-20e3:
+  ## **YOLOv8 Face Detection**  :coffee:
 
 Check this link to learn about YOLOv8 : [https://github.com/ultralytics](https://github.com/ultralytics)
 
@@ -87,7 +87,7 @@ Check this link to learn about YOLOv8 : [https://github.com/ultralytics](https:/
 - ` yolov8m.pt` (pre trained YOLOv7 model can be download from  [https://github.com/ultralytics](https://github.com/ultralytics) or **request me)**
   
   
- :tw-1f352: ** You can check results.jpg to see results(YOLOv8 folder in repo).** 
+ :coffee: ** You can check results.jpg to see results(YOLOv8 folder in repo).** 
  
  
  
@@ -95,7 +95,7 @@ Check this link to learn about YOLOv8 : [https://github.com/ultralytics](https:/
 ------------
 
 
-:tw-26a0: **SUGER TRICKS : **  :tw-26a0: 
+:coffee: **SUGER TRICKS : **  :coffee:
 
 1.  When trying to train YOLOv7, please check `loss.py `  file and check device and change it 
 
@@ -143,4 +143,4 @@ Check repo there is that file.
 ------------
 
 
-# Thank You :tw-1f381: :tw-1f381: :tw-1f381:
+# Thank You :lollipop: :lollipop: :lollipop:
