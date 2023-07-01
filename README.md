@@ -99,7 +99,7 @@ Check this link to learn about YOLOv8 : [https://github.com/ultralytics](https:/
 
 1.  When trying to train YOLOv7, please check `loss.py `  file and check device and change it 
 
- to `cuda.`
+    to `cuda.`
  
 2. If your training data is big use `train.py` in** YOLOv7**, if it is small use `train_aux.py`
 
