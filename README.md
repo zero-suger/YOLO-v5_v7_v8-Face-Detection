@@ -126,7 +126,7 @@ I used` run_OpenCV.py `file to run live stream face detection with is powered wi
 Check repo there is that file. 
 
 
-:lollipop:  **LIVE DEMO : ** [https://youtu.be/xZDQq-44Euk](https://youtu.be/xZDQq-44Euk)
+:lollipop:  **LIVE DEMO :** [https://youtu.be/xZDQq-44Euk](https://youtu.be/xZDQq-44Euk)
 
 
 ------------
